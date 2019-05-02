@@ -1,0 +1,31 @@
+body
+{
+	background-color: yellow;
+}
+#style
+{
+	text-align: center;
+	color:green;
+}
+#right
+{
+	padding-left: 70%
+}
+.align
+{
+	font-style: italic;
+	color:blue;
+}
+#center
+{
+	font-style: italic;
+	color:red;
+}
+.move
+{
+	text-align: center;
+}
+#tab
+{
+	color:purple;
+}

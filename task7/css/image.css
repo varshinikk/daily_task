@@ -1,0 +1,20 @@
+body
+{
+	background-color: powderblue;
+	font-style: italic;
+}
+.left
+{
+	margin-top: 10px;
+	position: absolute;
+  z-index: 1;
+  left: 0;
+  margin-left: 30px;	
+}
+#right
+{
+	position: absolute ;
+  z-index: -1;
+  right: 0;
+  padding-left: 250px; 
+}

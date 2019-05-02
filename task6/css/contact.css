@@ -1,0 +1,22 @@
+body
+{
+	background-color:powderblue;
+}
+#style
+{
+	color: red;
+	font-style: italic;
+	text-align: center; 
+}
+#right
+{
+	padding-left: 70%
+}
+.color
+{
+	color:green;
+}
+.move
+{
+	text-align: center;
+}

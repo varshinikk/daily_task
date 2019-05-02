@@ -1,0 +1,27 @@
+body
+{
+	background-color: pink;
+}
+#align
+{
+	text-align: center;
+	font-style: italic;
+	color: blue;
+}
+#color
+{
+	font-style: italic;
+	color: green;
+}
+#font
+{
+	color:green;
+}
+#right
+{
+	padding-left: 70%
+}
+.move
+{
+	text-align: center;
+}

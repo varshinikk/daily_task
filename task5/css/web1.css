@@ -1,0 +1,17 @@
+body
+{
+    text-align:center;
+    background-color: pink;
+}
+h1
+{
+	text-align: center;
+	color: blue;
+	font-style: italic;
+}
+#align
+{
+	height:50%;
+	width: 50%;
+}
+

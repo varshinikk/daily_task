@@ -1,0 +1,19 @@
+#align
+{
+	border:solid;
+	border-radius: 25px;
+  height: 55;
+  width: 500;
+  padding: 8px;
+  font-size: 20;
+}
+#left
+{
+	margin-left:-5px;
+	border:solid;
+	border-radius: 1px 25px 25px 1px;
+  padding: 8px;
+  height:54;
+  width:60px;
+  font-size: 18;
+}

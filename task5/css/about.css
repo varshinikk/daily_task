@@ -1,0 +1,38 @@
+body
+{
+	background-color: orange;
+	font-style: italic;
+}
+h1
+{
+	text-align: center;
+	font-style: italic;
+	color:black;
+}
+#style
+{
+	color:blue;
+	font-size: 22;
+}
+.color
+{
+	color:purple;
+	font-size: 22;
+}
+#font
+{
+	color:green;
+	font-size: 22;
+}
+.left1
+{
+	margin-left: 140px;
+}
+.left2
+{
+	margin-left: 170px;
+}
+.left3
+{
+	margin-left: 140px;
+}
