@@ -1,0 +1,58 @@
+body
+{
+	background-color: rgb(108, 52, 131  );
+}
+.flex-container 
+{
+  display: flex;
+  flex-direction: column;
+  height: 550px;
+  width: 400px;
+  background-color: white;
+  margin-left: 421px;
+  margin-top: 30px;
+}
+.flex-container > div 
+{
+  background-color: transparent;
+  font-size: 20px;
+  height: 50px;
+  width: 100%;
+  margin-top: 30px;
+}
+#align
+{
+	margin-left: 146px;
+	padding: 19px;
+	color: rgb(131, 145, 146);
+}
+img
+{
+	border-radius: 50%;
+	height: 75px;
+    width: 75px;
+    margin-left: 160px;
+    margin-top: 50px;
+}
+i 
+{
+	margin-left: 20px;
+}
+.down
+{
+	margin-left: 158px;
+}
+b 
+{
+	margin-left: 20px;
+}
+.flex-container > div:hover 
+{
+  background-color: #EBDEF0  ;
+  color: red;
+}
+#active
+{
+  background-color: #EBDEF0  ;
+  color: red;
+}
