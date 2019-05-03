@@ -1,0 +1,109 @@
+body
+{
+	background-color: pink;
+}
+.home
+{
+	margin-left: 125px;
+	color: blue;
+}
+.product
+{
+	margin-left: 50px;
+	color: blue;
+}
+.contact
+{
+	margin-left: 50px;
+	color: blue;
+}
+.div1
+{
+	margin-left: 180px;
+    margin-top: 26px;
+    width: 250px;
+    position: absolute;
+    z-index: 0;
+}
+.div2
+{
+	position: absolute;
+    z-index: 1;
+    margin-left: 490px;
+    margin-top: 24px;
+    width: 250px;
+}
+.div3
+{
+	position: absolute;
+    z-index: 3;
+    margin-left: 770px;
+    margin-top: 24px;
+    height: 259px;
+    width: 250px;
+
+}
+.div4
+{
+	position: absolute;
+    z-index: 4;
+    margin-top: 376px;
+    width: 250px;
+    margin-left: 148px;
+}
+.div5
+{
+	position: absolute;
+    z-index: 4;
+    margin-top: 376px;
+    margin-left: 464px;
+    width: 250px;
+}
+.div6 
+{
+	position: absolute;
+    z-index: 5;
+    margin-top: 366px;
+    height: 230px;
+    margin-left: 768px;
+    width: 250px;
+}
+.div7
+{
+	position: absolute;
+    z-index: 6;
+    margin-top: 675px;
+    margin-left: 152px;
+    width: 250px;
+}
+.div8
+{
+	position: absolute;
+    z-index: 7;
+    margin-top: 656px;
+    margin-left: 475px;
+    width: 250px;
+}
+.div9
+{
+    position: absolute;
+    z-index: 8;
+    margin-top: 658px;
+    margin-left: 771px;
+    width: 250px;
+}
+img
+{
+    height:200px; 
+    width:250px;
+}
+.foot
+{
+	margin-top: 975px;
+    background-color: green;
+    color: red;
+}
+input
+{
+    margin-left: 80px;
+}

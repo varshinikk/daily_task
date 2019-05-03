@@ -1,0 +1,52 @@
+#blue
+{
+	background-color: powderblue;
+}
+#margin
+{
+	margin: 26px;
+	font-style: italic;
+	color:red;
+	background-color: yellow;
+}
+.home
+{
+	margin-left: 125px;
+	color: blue;
+}
+.product
+{
+	margin-left: 50px;
+	color: blue;
+}
+.contact
+{
+	margin-left: 50px;
+	color: blue;
+}
+img
+{
+  float: right;
+}
+#align
+{
+	margin: 26px;
+	font-style: italic;
+	color: red;
+	background-color: green;
+}
+#left
+{
+	width:px;
+	height: 200px;
+}
+.foot
+{
+	background-color: pink;
+	color: red;
+}
+#host
+{
+	display:-webkit-box;
+
+}
