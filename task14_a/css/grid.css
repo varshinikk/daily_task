@@ -1,0 +1,27 @@
+.grid-container 
+{
+		display:grid;
+		grid-template-columns:70px 70px 70px 70px 70px 70px 70px 70px;
+    grid-template-rows: 70px 70px;
+    background-color:white;
+    padding:10px;
+    grid-row-gap: 10px;
+    grid-column-gap: 10px;
+}
+ .grid-container > div
+ {
+    background-color: #F4D03F ;
+    padding: 20px;
+    font-size: 40px;
+    box-shadow: 1px 7px 5px #D68910  ;
+}  
+ 
+#item6
+{
+  grid-column: 6 / span 3;
+  background-color: #f4aa42;
+} 
+#item12
+{
+  background-color: #f4aa42;
+}

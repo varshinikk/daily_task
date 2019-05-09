@@ -1,0 +1,43 @@
+.flex-container
+{
+	display: flex;
+	background-color: gray;
+	flex-direction: column;   
+}
+#first
+{
+	height: 80px;
+	background: #1E8449;
+	padding: 10px;
+	font-size: 40px;
+}
+#second
+{
+	height: 312px;
+	display: flex;
+	flex-direction: row;
+}
+#last
+{
+	height: 80px;
+	background: #1E8449;
+	font-size: 38px;
+}
+#div1
+{
+	background-color:#F7F9F9 ;
+	flex-grow: 4;
+	padding: 10px;
+}
+#div2
+{
+	background-color:#FCF3CF ;
+	flex-grow: 1;
+	padding: 10px;
+}
+#div3
+{
+	background-color:#D5DBDB ;
+	flex-grow: 1;
+	padding: 10px;
+}
